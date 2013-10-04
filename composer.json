@@ -1,0 +1,6 @@
+{
+    "name": "splitfeed/phpwhois",
+    "require": {
+        "php": ">=4.3.0"
+    }
+}
